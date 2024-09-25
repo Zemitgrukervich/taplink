@@ -1,0 +1,17 @@
+name: "Егор Змитрукевич"
+picture: "assets/img/main.jpg"
+bio: "Programmer JS/REACT"
+meta:
+  lang: "ru"
+  description: "Programmer JS/REACT"
+  title: "Егор Змитрукевич"
+  author: "Егор Змитрукевич"
+  siteUrl: "https://Zemitgrukervich.github.io/taplink/"
+links:
+  - name: "GitHub"
+    url: "https://github.com/Zemitgrukervich"
+  - name: "Telegram"
+    url: "https://t.me/Zemitgrukervich"
+  - name: "Instagram"
+    url: "https://www.instagram.com/zemitgrukervich"
+theme: "custom"
